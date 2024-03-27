@@ -1,7 +1,5 @@
 <h1>Client Group Projects</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
-
 <h2>Description</h2>
 Two projects that I contributed to in my Senior year for clients. One was a virtual reality musical experience for MNDR, where I worked on the programming for audio interactions as well as some XR interactions. The other was a virtual reality cognitive training simulation for VARScent, where I did level design and 3D modeling.
 <br />
